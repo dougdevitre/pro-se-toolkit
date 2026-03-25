@@ -1,0 +1,15 @@
+{
+  "name": "@justice-os/pro-se-toolkit",
+  "version": "0.1.0",
+  "description": "Help self-represented litigants win — case strategy, checklists, and court prep",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "test": "vitest",
+    "lint": "eslint src/"
+  },
+  "keywords": ["pro-se", "self-represented", "court-prep", "legal-aid", "justice"],
+  "author": "Justice OS Contributors",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/dougdevitre/pro-se-toolkit" }
+}
