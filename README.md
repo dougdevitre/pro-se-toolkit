@@ -31,6 +31,39 @@ graph LR
 - **Legal aid triage staff** who need to quickly orient new clients
 - **Law school clinics** training students while serving real communities
 
+## Real Story
+
+**A custody modification — navigated step by step.**
+
+A parent receives notice that a custody modification hearing has been scheduled six weeks out. Working full-time with no attorney and no prior court experience, the stakes are clear: show up prepared, or risk an outcome that shapes the children's lives for years.
+
+Here's how the toolkit helps at every stage:
+
+**Week 1 — Understand the situation**
+- Case type selector identifies this as a *custody modification* (not an initial filing)
+- Strategy advisor surfaces the two key legal standards: changed circumstances and best interest of the child
+- Jurisdiction-specific checklist generated — 14 items, ordered by deadline
+
+**Weeks 2–4 — Build the record**
+- Gather school records, medical records, and communication logs
+- Complete the required financial disclosure form
+- Draft the parenting plan modification proposal
+- Deadline tracker fires reminders 14 days, 7 days, and 48 hours before each filing window
+
+**Week 5 — Court prep**
+- Court prep simulator loads custody-specific practice questions
+- Feedback surfaces unclear answers and suggests more child-focused language
+- Day-of checklist generated: what to bring, where to sit, how to address the judge
+
+**Hearing day**
+- Filed correctly. Filed on time. Ready to speak clearly to the facts.
+
+The outcome is never guaranteed — no tool can promise that. But arriving organized, having met every deadline, and knowing what to expect removes the biggest risk factor for self-represented litigants: avoidable procedural errors.
+
+> *This is a representative scenario for illustration only. It is not legal advice.*
+
+---
+
 ## Features
 
 - **Case type identification and strategy guidance** -- understand your situation and what to prioritize
